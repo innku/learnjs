@@ -1,0 +1,12 @@
+= Taller de javascript Basico
+
+Dependencias Seccion 1 y 2
+
+* Jquery
+* Chrome o Firefox
+
+Dependencias Seccion 3
+
+* Node JS
+* Coffeescript
+* Ruby on Rails
